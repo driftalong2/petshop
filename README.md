@@ -1,7 +1,7 @@
 # truffle-pet-shop
 truffle的官方例程，代码已经添加好。
 
-之前参考<https://trufflesuite.com/tutorial/index.html>的中文教程，但是里面有一些错误，修改起来麻烦。
+之前参考<https://learnblockchain.cn/2018/01/12/first-dapp/>的中文教程，但是里面有一些错误，修改起来麻烦。
 
 后面直接参加官方例程<https://trufflesuite.com/tutorial/index.html>，一步一步来。就是现在的repositoty。
 
