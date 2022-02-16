@@ -10,7 +10,7 @@ truffle的官方例程，代码已经添加好。
 
 2.在浏览器里安装MetaMask，导入Ganache的密钥
 
-####下载之后：
+#### 下载之后：
 ```
 npm install
 ```
@@ -23,7 +23,7 @@ truffle  migrate
 ```
 truffle test
 ```
-####最后，运行
+#### 最后，运行
 ```
  npm run dev
  ```
